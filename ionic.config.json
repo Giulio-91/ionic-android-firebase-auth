@@ -1,0 +1,7 @@
+{
+  "name": "androidAuth01",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
